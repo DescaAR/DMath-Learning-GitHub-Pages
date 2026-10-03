@@ -4,7 +4,7 @@ export const siteConfig = {
   tagline: "Think Deeper, Solve Better.",
   description:
     "DMath Learning adalah platform pembelajaran matematika berbahasa Indonesia untuk memahami konsep, pembuktian, latihan, bank soal, ON-MIPA, dan matematika universitas.",
-  url: "https://dmath-learning.vercel.app",
+  url: "https://descaar.github.io/DMath-Learning-GitHub-Pages",
   locale: "id_ID",
   language: "id-ID",
   ogImage: "/opengraph-image",
